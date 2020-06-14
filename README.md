@@ -1,3 +1,3 @@
---> My Small Game Projects
+--> My Game Projects in Python
 
 ![](py_game.jpg)
